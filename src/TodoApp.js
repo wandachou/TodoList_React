@@ -8,10 +8,13 @@ export default function TodoApp() {
 	return (
 		<div className="todo-app">
 			<h1>待辦事項</h1>
-			<p>現在就來新增你的待辦事項吧～</p>
-			<AddTodo />
-			<VisibilityFilters />
-			<TodoList />
+			<p>快把你會忘記的事情，通通記下吧～</p>
+			<div className="raw">
+				<AddTodo />
+				<VisibilityFilters />
+				<TodoList />
+			</div>
+
 		</div>
 	);
 }
