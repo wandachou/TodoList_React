@@ -1,7 +1,7 @@
 {
-  "name": "todoapp-with-redux-and-normalized-store",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "A todo list app with React-Redux (with normalized store shape).",
+  "description": "A todo list with React-Redux.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
