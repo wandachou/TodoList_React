@@ -3,16 +3,6 @@
   "name": "A todo list with React-Redux.",
   "icons": [
     {
-      "src": "/favicon.ico",
-      "sizes": "48x48",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
       "src": "/favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
