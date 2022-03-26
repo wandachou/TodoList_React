@@ -1,9 +1,9 @@
 {
   "name": "todolist",
   "version": "1.0.0",
+  "homepage": "https://wandachou.github.io/TodoList_React/",
   "description": "A todo list with React-Redux.",
   "keywords": [],
-  "main": "src/index.js",
   "dependencies": {
     "classnames": "2.2.6",
     "react": "16.4.2",
