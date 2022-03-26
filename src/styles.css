@@ -47,10 +47,10 @@ button {
   letter-spacing: 1px;
   height: 40px;
   display: inline-block;
-  background-color: #62C4D3;
+  background-color: #000080;
   color: #ffffff;
   padding: 0 10px;
-  border: 2px solid #62C4D3;
+  border: 2px solid #000080;
   border-radius: 5px;
   box-shadow: 0px 2px 10px #e1e1e1;
   cursor: pointer;
